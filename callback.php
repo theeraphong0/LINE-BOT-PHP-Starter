@@ -30,7 +30,7 @@ EOM;
   $responseMessage = <<< EOM
     {
       "to":["{$requestFrom}"],
-      "toChannel":1383378250,
+      "toChannel":1486176698,
       "eventType":"138311608800106203",
       "content":{
         "contentType":1,
