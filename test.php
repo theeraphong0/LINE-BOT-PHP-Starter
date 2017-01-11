@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
 
-<form action="upload.php" method="post" enctype="multipart/form-data">
-    Select image to upload:
-    <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="submit" value="Upload Image" name="submit">
-</form>
+<?php
+    echo "I Love you Your are beautiful";
+?>    
 
 </body>
 </html>
