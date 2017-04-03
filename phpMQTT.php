@@ -1,10 +1,10 @@
 // subscribe.php
   require("phpMQTT.php");
 
-  $host = "hostname"; 
-  $port = port;
-  $username = "username"; 
-  $password = "password"; 
+  $host = "m13.cloudmqtt.com"; 
+  $port = 14476;
+  $username = "xwspenyh"; 
+  $password = "GoKe-ybHgMXi"; 
 
   $mqtt = new phpMQTT($host, $port, "ClientID".rand()); 
 
