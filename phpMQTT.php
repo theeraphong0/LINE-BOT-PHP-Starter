@@ -24,5 +24,5 @@
   function procmsg($topic,$msg){
     echo "Msg Recieved: $msg";
   }
-echo "Msg Recieved: $msg";
+echo "HELLO World";
 ?> 
