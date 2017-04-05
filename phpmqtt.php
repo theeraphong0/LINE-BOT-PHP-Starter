@@ -1,6 +1,6 @@
   <?php
 
-  require("phpMQTT.php");
+  require("phpmqtt.php");
 
   $host = "m13.cloudmqtt.com"; 
   $port = 14476;
