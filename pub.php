@@ -2,7 +2,7 @@
  
    function pubMqtt($topic,$msg){
        
-       put("https://api.netpie.io/topic/TESTIOT/",$msg);
+      "https://api.netpie.io/topic/testiot/$topic?retain"
  
   }
   function getMqttfromlineMsg($lineMsg){
