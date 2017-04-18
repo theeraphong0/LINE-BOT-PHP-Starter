@@ -1,3 +1,4 @@
+<?php
   $host = "m13.cloudmqtt.com"; 
   $port = 14476;
   $username = "xwspenyh"; 
@@ -13,3 +14,4 @@
   }else{
     echo "Fail or time out<br />";
   }
+?>
